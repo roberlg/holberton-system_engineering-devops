@@ -1,2 +1,3 @@
 #!/bin/bash
-export $(($POWER/$DIVIDE))
+echo ($POWER/DIVIDE)`:X
+
