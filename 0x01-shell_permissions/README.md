@@ -45,6 +45,7 @@ Create a script that switches the current user to the user betty.
     You can assume that the user betty will exist when we will run your script
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -76,6 +77,7 @@ Write a script that prints all the groups the current user is part of.
 Note: depending on the user, you will get a different output.
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -89,7 +91,8 @@ mandatory
 
 Write a script that changes the owner of the file hello to the user betty.
 
-epo:
+Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -104,6 +107,7 @@ mandatory
 Write a script that creates an empty file called hello.
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -137,6 +141,7 @@ Write a script that adds execute permission to the owner and the group owner, an
     The file hello will be in the working directory
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -155,6 +160,7 @@ Write a script that adds execution permission to the owner, the group owner and 
     You are not allowed to use commas for this script
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -177,6 +183,7 @@ Write a script that sets the permission to the file hello as follows:
 The file hello will be in the working directory You are not allowed to use commas for this script
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -195,6 +202,7 @@ Write a script that sets the mode of the file hello to this:
     You are not allowed to use commas for this script
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -213,6 +221,7 @@ Write a script that sets the mode of the file hello the same as olleh’s mode.
     The file olleh will be in the working directory
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -227,6 +236,7 @@ mandatory
 Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -241,6 +251,7 @@ mandatory
 Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -256,6 +267,7 @@ Write a script that changes the group owner to school for the file hello
     The file hello will be in the working directory
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -270,6 +282,7 @@ Repo:
 Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -288,6 +301,7 @@ Write a script that changes the owner and the group owner of _hello to vincent a
     The file _hello is a symbolic link
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
@@ -304,6 +318,7 @@ Write a script that changes the owner of the file hello to vincent only if it is
     The file hello will be in the working directory
 
 Repo:
+
     GitHub repository: holberton-system_engineering-devops
 
     Directory: 0x01-shell_permissions
