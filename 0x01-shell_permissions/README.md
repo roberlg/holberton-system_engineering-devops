@@ -53,6 +53,21 @@ Repo:
 
 
 
+1. Who am I
+mandatory
+
+Write a script that prints the effective username of the current user.
+
+Repo:
+
+    GitHub repository: holberton-system_engineering-devops
+
+    Directory: 0x01-shell_permissions
+
+    File: 1-who_am_i
+
+
+
 2. Groups
 mandatory
 
