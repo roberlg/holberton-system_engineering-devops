@@ -36,6 +36,7 @@ General
 
 
 0. My name is Betty
+
 mandatory
 
 Create a script that switches the current user to the user betty.
@@ -55,6 +56,7 @@ Repo:
 
 
 1. Who am I
+
 mandatory
 
 Write a script that prints the effective username of the current user.
@@ -70,6 +72,7 @@ Repo:
 
 
 2. Groups
+
 mandatory
 
 Write a script that prints all the groups the current user is part of.
@@ -87,6 +90,7 @@ Repo:
 
 
 3. New owner
+
 mandatory
 
 Write a script that changes the owner of the file hello to the user betty.
@@ -102,6 +106,7 @@ Repo:
 
 
 4. Empty!
+
 mandatory
 
 Write a script that creates an empty file called hello.
@@ -117,6 +122,7 @@ Repo:
 
 
 5. Execute
+
 mandatory
 
 Write a script that adds execute permission to the owner of the file hello.
@@ -134,6 +140,7 @@ Repo:
 
 
 6. Multiple permissions
+
 mandatory
 
 Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
@@ -151,6 +158,7 @@ Repo:
 
 
 7. Everybody!
+
 mandatory
 
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
@@ -170,6 +178,7 @@ Repo:
 
 
 8. James Bond
+
 mandatory
 
 Write a script that sets the permission to the file hello as follows:
@@ -193,6 +202,7 @@ Repo:
 
 
 9. John Doe
+
 mandatory
 
 Write a script that sets the mode of the file hello to this:
@@ -212,6 +222,7 @@ Repo:
 
 
 10. Look in the mirror
+
 mandatory
 
 Write a script that sets the mode of the file hello the same as olleh’s mode.
@@ -231,6 +242,7 @@ Repo:
 
 
 11. Directories
+
 mandatory
 
 Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
@@ -246,6 +258,7 @@ Repo:
 
 
 12. More directories
+
 mandatory
 
 Create a script that creates a directory called my_dir with permissions 751 in the working directory.
@@ -260,6 +273,7 @@ Repo:
 
 
 13. Change group
+
 mandatory
 
 Write a script that changes the group owner to school for the file hello
@@ -277,6 +291,7 @@ Repo:
 
 
 14. Owner and group
+
 #advanced
 
 Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
@@ -292,6 +307,7 @@ Repo:
 
 
 15. Symbolic links
+
 #advanced
 
 Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
@@ -311,6 +327,7 @@ Repo:
 
 
 16. If only
+
 #advanced
 
 Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
@@ -328,6 +345,7 @@ Repo:
 
 
 17. Star Wars
+
 #advanced
 
 Write a script that will play the StarWars IV episode in the terminal.
